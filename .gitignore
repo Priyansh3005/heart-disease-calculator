@@ -1,0 +1,16 @@
+# React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Python Backend & ML
+backend/__pycache__/
+backend/venv/
+backend/.env
+ml_research/__pycache__/
+ml_research/.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
